@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205478674110",
+    "project_id": "movil-2024-c121b",
+    "storage_bucket": "movil-2024-c121b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205478674110:android:ccd5a43a59fd39e56668ef",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2cQb_QsNVNGJyggVynkj9KZUCnYKoSWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205478674110:android:ff89965e08f1c3776668ef",
+        "android_client_info": {
+          "package_name": "com.example.notes_2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2cQb_QsNVNGJyggVynkj9KZUCnYKoSWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
